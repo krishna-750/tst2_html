@@ -1,0 +1,87 @@
+body{
+    background-image: url(back.png);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(70%);
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    height:100px;
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    color:white;
+}
+.leftnav{
+    margin:30px 20px;
+    font-size: 1.2rem;
+    margin-bottom: -0.6rem;
+}
+.rightnav ul{
+    display: flex;
+    list-style: none;
+}
+.rightnav li{
+    margin:30px 10px;
+    font-size: 1.2rem;
+}
+.rightnav li:hover{
+    color: brown;
+}
+#section01{
+    display:flex;
+    justify-content: space-between;
+}
+.leftsection img{
+    margin-top: 50px;
+}
+.rightsection{
+    margin:300px 100px;
+    margin-right: 200px;
+}
+.rightsection p{
+    font-size: 3rem;
+    color:black;
+}
+.rightsection button{
+    margin-top:30px;
+    height:30px;
+    width:150px;
+    border-radius: 10px;
+}
+#section02{
+    height: 100%;
+    background-image: url(back.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(70%);
+    padding: 0px;
+    margin: 0px;
+}
+#section03{
+    height: 100%;
+    background-image: url(back.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(70%);
+    padding: 0px;
+    margin: 0px;
+}
+#section04{
+    height: 80%;
+    background-image: url(back.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    filter: brightness(70%);
+    padding: 0px;
+    margin: 0px;
+}
+#list ul{
+    list-style: none;
+}
